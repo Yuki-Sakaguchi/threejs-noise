@@ -1,5 +1,15 @@
 # three.jsとパーリンノイズでファイヤーボールを作る
 
+# DEMO
+* sample01
+  * https://yuki-sakaguchi.github.io/threejs-noise/sample01.html
+* sample02
+  * https://yuki-sakaguchi.github.io/threejs-noise/sample02.html
+* sample03
+  * https://yuki-sakaguchi.github.io/threejs-noise/sample03.html
+* sample04
+  * https://yuki-sakaguchi.github.io/threejs-noise/sample04.html
+
 # three.jsでシェーダーを使う
 * vertexShader
   * 頂点操作用のGSLSコード（頂点シェーダー）
